@@ -15,3 +15,8 @@
   --tropical-sand: #87513c; /* An earth tone/sand color */
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
