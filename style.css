@@ -1,1 +1,17 @@
+/* COLOR PALETTE */
+:root {
+  /* Tropical Water Hues */
+  --tropical-water-light: #a4fff4; /* A light, bright aqua */
+  --tropical-water-main: #00ffff; /* Neon blue/aqua */
+  --tropical-water-dark: #4C9FEB; /* A slightly deeper blue */
+
+  /* Tropical Florals & Sunset Hues */
+  --tropical-fuchsia: #f33d22; /* A bright, warm pink/red */
+  --tropical-tangerine: #ECBF31; /* A sunny yellow/orange */
+
+  /* Tropical Greens & Earth Tones */
+  --tropical-leaf-green: #329316; /* A vibrant leaf green */
+  --tropical-lime: #68de47; /* A bright lime green */
+  --tropical-sand: #87513c; /* An earth tone/sand color */
+}
 
